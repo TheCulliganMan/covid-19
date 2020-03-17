@@ -2,8 +2,10 @@ import pandas as pd
 import numpy as np
 import us
 import datetime
-from covidb.config import RAW_OUTPUT_CSV, ENHANCED_OUTPUT_CSV, get_todays_output_name
+from covidb.config import RAW_OUTPUT_CSV, ENHANCED_OUTPUT_CSV, get_todays_output_name, COUNTIES_CSV, STATES_CSV
 
+counties = pd.read_csv(COUNTIES_CSV, sep="\t", dtype = {'fips': str,}).apply(lambda x: x.str.lower())
+states = pd.read_csv(STATES_CSV, sep="\t", dtype = {'fips': str,})
 
 def is_state(row, column="Province/State"):
     if len(row[column].split(", ")) > 1:
@@ -31,6 +33,49 @@ def get_state(row, column="Province/State"):
     return np.NaN
 
 
+def get_county_fips(row):
+    if isinstance(row.county, float):
+        return np.NaN
+    try:
+        county = row.county.lower()
+        state = row.state.abbr.lower()
+    except TypeError:
+        return np.NaN
+    except AttributeError:
+        return np.NaN
+    if "saint " in county or "st. " in county:
+        county = county.replace("st. ", "st ").replace("saint ", "st ")
+    if "parish" in county or "county" in county:
+        county = county.replace(" county", "").replace(" parish", "")
+    filt = counties.loc[(counties.county == county) & (counties.state == state)]
+    if len(filt):
+        return filt.iloc[0].fips
+    return np.NaN
+
+def get_state_fips(row):
+    if isinstance(row.state, float):
+        return np.NaN
+    try:
+        state = row.state.abbr.upper()
+
+        filt = states.loc[(states.abbr == state)]
+        if len(filt):
+            return filt.iloc[0].fips
+    except TypeError:
+        pass
+    return np.NaN
+    
+    
+def get_state_abbr(row):
+    if isinstance(row.state, float):
+        return np.NaN
+    try:
+        state = row.state.abbr.upper() 
+        return state
+    except TypeError:
+        pass
+    return np.NaN
+
 def enhance_data(save_data_as_csv=True):
     df = pd.read_csv(RAW_OUTPUT_CSV)
     df = df.loc[df["Country/Region"] == "US"].reset_index(drop=True)
@@ -38,6 +83,9 @@ def enhance_data(save_data_as_csv=True):
     df["county"] = df.apply(get_county, axis=1)
     df["state"] = df.apply(get_state, axis=1)
     df["Date"] = pd.to_datetime(df["Date"]).dt.date
+    df["county_fips"] = df.apply(get_county_fips, axis=1)
+    df["state_fips"] = df.apply(get_state_fips, axis=1)
+    df["state_code"] = df.apply(get_state_abbr, axis=1)
     if save_data_as_csv:
         df.to_csv(ENHANCED_OUTPUT_CSV, index=False)
     return df
