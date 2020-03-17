@@ -1,0 +1,248 @@
+Province/State,Country/Region,Lat,Long,Date,Confirmed,Recovered,Deaths,is_full_state,county,state,confirmed_yesterday,confirmed_delta_today
+Washington,US,47.4009,-121.4905,2020-03-16,904,1,48,True,,Washington,643,261
+New York,US,42.1657,-74.9481,2020-03-16,967,0,10,True,,New York,732,235
+California,US,36.1162,-119.6816,2020-03-16,557,6,7,True,,California,426,131
+New Jersey,US,40.2989,-74.521,2020-03-16,178,1,2,True,,New Jersey,98,80
+Diamond Princess,US,35.4437,139.638,2020-03-16,47,0,0,False,,,0,47
+Louisiana,US,31.1695,-91.8678,2020-03-16,136,0,3,True,,Louisiana,91,45
+Florida,US,27.7663,-81.6868,2020-03-16,155,0,5,True,,Florida,115,40
+Massachusetts,US,42.2302,-71.5301,2020-03-16,197,1,0,True,,Massachusetts,164,33
+Colorado,US,39.0598,-105.3111,2020-03-16,160,0,1,True,,Colorado,131,29
+Georgia,US,33.0406,-83.6431,2020-03-16,121,0,1,True,,Georgia,99,22
+Nevada,US,38.3135,-117.0554,2020-03-16,45,0,1,True,,Nevada,24,21
+Grand Princess,US,37.6489,-122.6655,2020-03-16,20,0,0,False,,,0,20
+Michigan,US,43.3266,-84.5361,2020-03-16,53,0,0,True,,Michigan,33,20
+Minnesota,US,45.6945,-93.9002,2020-03-16,54,0,0,True,,Minnesota,35,19
+Alabama,US,32.3182,-86.9023,2020-03-16,29,0,0,True,,Alabama,12,17
+Wisconsin,US,44.2685,-89.6165,2020-03-16,47,1,0,True,,Wisconsin,32,15
+Tennessee,US,35.7478,-86.6923,2020-03-16,52,0,0,True,,Tennessee,39,13
+Ohio,US,40.3888,-82.7649,2020-03-16,50,0,0,True,,Ohio,37,13
+Texas,US,31.0545,-97.5635,2020-03-16,85,0,0,True,,Texas,72,13
+Illinois,US,40.3495,-88.9861,2020-03-16,105,2,0,True,,Illinois,93,12
+Pennsylvania,US,40.5908,-77.2098,2020-03-16,77,0,0,True,,Pennsylvania,66,11
+Utah,US,40.15,-111.8624,2020-03-16,39,0,0,True,,Utah,28,11
+Maryland,US,39.0639,-76.8021,2020-03-16,41,3,0,True,,Maryland,32,9
+District of Columbia,US,38.8974,-77.0268,2020-03-16,22,0,0,True,,District of Columbia,16,6
+Arkansas,US,34.9697,-92.3731,2020-03-16,22,0,0,True,,Arkansas,16,6
+Connecticut,US,41.5978,-72.7554,2020-03-16,30,0,0,True,,Connecticut,24,6
+Indiana,US,39.8494,-86.2583,2020-03-16,25,0,1,True,,Indiana,20,5
+Maine,US,44.6939,-69.3819,2020-03-16,17,0,0,True,,Maine,12,5
+Arizona,US,33.7298,-111.4312,2020-03-16,18,1,0,True,,Arizona,13,5
+Iowa,US,42.0115,-93.2105,2020-03-16,23,0,0,True,,Iowa,18,5
+South Carolina,US,33.8569,-80.945,2020-03-16,33,0,1,True,,South Carolina,28,5
+North Carolina,US,35.6301,-79.8064,2020-03-16,38,0,0,True,,North Carolina,33,5
+Vermont,US,44.0459,-72.7107,2020-03-16,12,0,0,True,,Vermont,8,4
+New Mexico,US,34.8405,-106.2485,2020-03-16,17,0,0,True,,New Mexico,13,4
+Virginia,US,37.7693,-78.17,2020-03-16,49,0,1,True,,Virginia,45,4
+New Hampshire,US,43.4525,-71.5639,2020-03-16,17,0,0,True,,New Hampshire,13,4
+Oklahoma,US,35.5653,-96.9289,2020-03-16,10,0,0,True,,Oklahoma,7,3
+Oregon,US,44.571999999999996,-122.0709,2020-03-16,39,0,1,True,,Oregon,36,3
+Kansas,US,38.5266,-96.7265,2020-03-16,11,0,1,True,,Kansas,8,3
+Mississippi,US,32.7416,-89.6787,2020-03-16,13,0,0,True,,Mississippi,10,3
+Nebraska,US,41.1254,-98.2681,2020-03-16,18,0,0,True,,Nebraska,17,1
+Rhode Island,US,41.6809,-71.5118,2020-03-16,21,0,0,True,,Rhode Island,20,1
+Kentucky,US,37.6681,-84.6701,2020-03-16,21,1,1,True,,Kentucky,20,1
+Missouri,US,38.4561,-92.2884,2020-03-16,6,0,0,True,,Missouri,5,1
+Delaware,US,39.3185,-75.5071,2020-03-16,8,0,0,True,,Delaware,7,1
+South Dakota,US,44.2998,-99.4388,2020-03-16,10,0,1,True,,South Dakota,9,1
+Hawaii,US,21.0943,-157.4983,2020-03-16,7,0,0,True,,Hawaii,6,1
+"Hillsborough, FL",US,27.9904,-82.3018,2020-03-16,0,0,0,False,Hillsborough,Florida,0,0
+"Sonoma County, CA",US,38.578,-122.9888,2020-03-16,0,0,0,False,Sonoma County,California,0,0
+"San Mateo, CA",US,37.563,-122.3255,2020-03-16,0,0,0,False,San Mateo,California,0,0
+"Placer County, CA",US,39.0916,-120.8039,2020-03-16,0,0,0,False,Placer County,California,0,0
+"Westchester County, NY",US,41.122,-73.7949,2020-03-16,0,0,0,False,Westchester County,New York,0,0
+"Grafton County, NH",US,43.9088,-71.82600000000001,2020-03-16,0,0,0,False,Grafton County,New Hampshire,0,0
+"Wake County, NC",US,35.8032,-78.5661,2020-03-16,0,0,0,False,Wake County,North Carolina,0,0
+"Fulton County, GA",US,33.8034,-84.3963,2020-03-16,0,0,0,False,Fulton County,Georgia,0,0
+"Maricopa County, AZ",US,33.2918,-112.4291,2020-03-16,0,0,0,False,Maricopa County,Arizona,0,0
+"Umatilla, OR",US,45.775,-118.7606,2020-03-16,0,0,0,False,Umatilla,Oregon,0,0
+"San Diego County, CA",US,32.7157,-117.1611,2020-03-16,0,0,0,False,San Diego County,California,0,0
+"Washington County, OR",US,45.547,-123.1386,2020-03-16,0,0,0,False,Washington County,Oregon,0,0
+"Snohomish County, WA",US,48.033,-121.8339,2020-03-16,0,0,0,False,Snohomish County,Washington,0,0
+"Humboldt County, CA",US,40.745,-123.8695,2020-03-16,0,0,0,False,Humboldt County,California,0,0
+"Sacramento County, CA",US,38.4747,-121.3542,2020-03-16,0,0,0,False,Sacramento County,California,0,0
+"Orange County, CA",US,33.7879,-117.8531,2020-03-16,0,0,0,False,Orange County,California,0,0
+"San Benito, CA",US,36.5761,-120.9876,2020-03-16,0,0,0,False,San Benito,California,0,0
+"Los Angeles, CA",US,34.0522,-118.2437,2020-03-16,0,0,0,False,Los Angeles,California,0,0
+"King County, WA",US,47.6062,-122.3321,2020-03-16,0,0,0,False,King County,Washington,0,0
+"Cook County, IL",US,41.7377,-87.6976,2020-03-16,0,0,0,False,Cook County,Illinois,0,0
+"Skagit, WA",US,48.4242,-121.7114,2020-03-16,0,0,0,False,Skagit,Washington,0,0
+"Thurston, WA",US,46.8646,-122.7696,2020-03-16,0,0,0,False,Thurston,Washington,0,0
+"Norfolk County, MA",US,42.1767,-71.1449,2020-03-16,0,0,0,False,Norfolk County,Massachusetts,0,0
+"Denver County, CO",US,39.7392,-104.9903,2020-03-16,0,0,0,False,Denver County,Colorado,0,0
+"Contra Costa County, CA",US,37.8534,-121.9018,2020-03-16,0,0,0,False,Contra Costa County,California,0,0
+"San Francisco County, CA",US,37.7749,-122.4194,2020-03-16,0,0,0,False,San Francisco County,California,0,0
+"Fayette County, KY",US,38.0606,-84.4803,2020-03-16,0,0,0,False,Fayette County,Kentucky,0,0
+"Marion County, IN",US,39.8362,-86.1752,2020-03-16,0,0,0,False,Marion County,Indiana,0,0
+"Whatcom, WA",US,48.8787,-121.9719,2020-03-16,0,0,0,False,Whatcom,Washington,0,0
+"Middlesex County, MA",US,42.4672,-71.2874,2020-03-16,0,0,0,False,Middlesex County,Massachusetts,0,0
+"Nassau County, NY",US,40.6546,-73.5594,2020-03-16,0,0,0,False,Nassau County,New York,0,0
+"Ramsey County, MN",US,44.9964,-93.0616,2020-03-16,0,0,0,False,Ramsey County,Minnesota,0,0
+"Washoe County, NV",US,40.5608,-119.6035,2020-03-16,0,0,0,False,Washoe County,Nevada,0,0
+"Wayne County, PA",US,41.6739,-75.2479,2020-03-16,0,0,0,False,Wayne County,Pennsylvania,0,0
+"Yolo County, CA",US,38.7646,-121.9018,2020-03-16,0,0,0,False,Yolo County,California,0,0
+"Santa Clara County, CA",US,37.3541,-121.9552,2020-03-16,0,0,0,False,Santa Clara County,California,0,0
+"Clark County, NV",US,36.0796,-115.094,2020-03-16,0,0,0,False,Clark County,Nevada,0,0
+"Fort Bend County, TX",US,29.5693,-95.8143,2020-03-16,0,0,0,False,Fort Bend County,Texas,0,0
+"Grant County, WA",US,47.1981,-119.3732,2020-03-16,0,0,0,False,Grant County,Washington,0,0
+"Santa Rosa County, FL",US,30.769000000000002,-86.9824,2020-03-16,0,0,0,False,Santa Rosa County,Florida,0,0
+"Williamson County, TN",US,35.9179,-86.8622,2020-03-16,0,0,0,False,Williamson County,Tennessee,0,0
+"New York County, NY",US,40.7128,-74.006,2020-03-16,0,0,0,False,New York County,New York,0,0
+"Montgomery County, MD",US,39.1547,-77.2405,2020-03-16,0,0,0,False,Montgomery County,Maryland,0,0
+"Suffolk County, MA",US,42.3601,-71.0589,2020-03-16,0,0,0,False,Suffolk County,Massachusetts,0,0
+"Summit County, CO",US,39.5912,-106.064,2020-03-16,0,0,0,False,Summit County,Colorado,0,0
+"Bergen County, NJ",US,40.9263,-74.077,2020-03-16,0,0,0,False,Bergen County,New Jersey,0,0
+"Harris County, TX",US,29.7752,-95.3103,2020-03-16,0,0,0,False,Harris County,Texas,0,0
+"Island, WA",US,48.1976,-122.5795,2020-03-16,0,0,0,False,Island,Washington,0,0
+"Hanover, VA",US,37.7772,-77.5161,2020-03-16,0,0,0,False,Hanover,Virginia,0,0
+"Marin, CA",US,38.0834,-122.7633,2020-03-16,0,0,0,False,Marin,California,0,0
+"Beadle, SD",US,44.4797,-98.2213,2020-03-16,0,0,0,False,Beadle,South Dakota,0,0
+"St. Joseph, IN",US,41.6228,-86.3377,2020-03-16,0,0,0,False,St. Joseph,Indiana,0,0
+"Knox, NE",US,42.6712,-97.8722,2020-03-16,0,0,0,False,Knox,Nebraska,0,0
+"Stark, OH",US,40.8685,-81.2519,2020-03-16,0,0,0,False,Stark,Ohio,0,0
+"Anoka, MN",US,45.3293,-93.2197,2020-03-16,0,0,0,False,Anoka,Minnesota,0,0
+"Olmsted, MN",US,43.9952,-92.3814,2020-03-16,0,0,0,False,Olmsted,Minnesota,0,0
+"Summit, UT",US,40.8298,-110.9984,2020-03-16,0,0,0,False,Summit,Utah,0,0
+"Fairfield, CT",US,41.256,-73.3709,2020-03-16,0,0,0,False,Fairfield,Connecticut,0,0
+"Litchfield, CT",US,41.7866,-73.2765,2020-03-16,0,0,0,False,Litchfield,Connecticut,0,0
+"Orleans, LA",US,29.9511,-90.0715,2020-03-16,0,0,0,False,Orleans,Louisiana,0,0
+"Pennington, SD",US,43.8901,-102.2548,2020-03-16,0,0,0,False,Pennington,South Dakota,0,0
+"Charles Mix, SD",US,43.0985,-98.3965,2020-03-16,0,0,0,False,Charles Mix,South Dakota,0,0
+"Calaveras, CA",US,38.196,-120.6805,2020-03-16,0,0,0,False,Calaveras,California,0,0
+"Davison, SD",US,43.7242,-98.2213,2020-03-16,0,0,0,False,Davison,South Dakota,0,0
+"Minnehaha, SD",US,43.6632,-96.8351,2020-03-16,0,0,0,False,Minnehaha,South Dakota,0,0
+"Bon Homme, SD",US,42.9815,-97.8722,2020-03-16,0,0,0,False,Bon Homme,South Dakota,0,0
+"Socorro, NM",US,33.8837,-106.7235,2020-03-16,0,0,0,False,Socorro,New Mexico,0,0
+"Bernalillo, NM",US,35.0178,-106.6291,2020-03-16,0,0,0,False,Bernalillo,New Mexico,0,0
+"Oakland, MI",US,42.5922,-83.3362,2020-03-16,0,0,0,False,Oakland,Michigan,0,0
+"Wayne, MI",US,42.2791,-83.3362,2020-03-16,0,0,0,False,Wayne,Michigan,0,0
+"New Castle, DE",US,39.5393,-75.6674,2020-03-16,0,0,0,False,New Castle,Delaware,0,0
+Puerto Rico,US,18.2208,-66.5901,2020-03-16,5,0,0,True,,Puerto Rico,5,0
+Guam,US,13.4443,144.7937,2020-03-16,3,0,0,True,,Guam,3,0
+"Howard, IN",US,40.4483,-86.1345,2020-03-16,0,0,0,False,Howard,Indiana,0,0
+"Johnson, IN",US,39.4638,-86.1345,2020-03-16,0,0,0,False,Johnson,Indiana,0,0
+"Sullivan, TN",US,36.4933,-82.3452,2020-03-16,0,0,0,False,Sullivan,Tennessee,0,0
+"Lancaster, SC",US,34.7253,-80.6771,2020-03-16,0,0,0,False,Lancaster,South Carolina,0,0
+"Stanislaus, CA",US,37.5091,-120.9876,2020-03-16,0,0,0,False,Stanislaus,California,0,0
+"San Joaquin, CA",US,36.6066,-120.189,2020-03-16,0,0,0,False,San Joaquin,California,0,0
+"Essex, MA",US,42.632,-70.7829,2020-03-16,0,0,0,False,Essex,Massachusetts,0,0
+"Charlton, GA",US,30.7917,-82.0843,2020-03-16,0,0,0,False,Charlton,Georgia,0,0
+"Collier, FL",US,26.07,-81.4279,2020-03-16,0,0,0,False,Collier,Florida,0,0
+"Pinellas, FL",US,27.8764,-82.7779,2020-03-16,0,0,0,False,Pinellas,Florida,0,0
+"Alachua, FL",US,29.7938,-82.4944,2020-03-16,0,0,0,False,Alachua,Florida,0,0
+"Nassau, FL",US,30.5927,-81.8224,2020-03-16,0,0,0,False,Nassau,Florida,0,0
+"Pasco, FL",US,28.3232,-82.4319,2020-03-16,0,0,0,False,Pasco,Florida,0,0
+"Dallas, TX",US,32.7767,-96.79700000000001,2020-03-16,0,0,0,False,Dallas,Texas,0,0
+"Tarrant, TX",US,32.7732,-97.3517,2020-03-16,0,0,0,False,Tarrant,Texas,0,0
+"Montgomery, TX",US,30.3883,-95.6963,2020-03-16,0,0,0,False,Montgomery,Texas,0,0
+"Middlesex, NJ",US,40.5726,-74.4927,2020-03-16,0,0,0,False,Middlesex,New Jersey,0,0
+"Jefferson, CO",US,39.58,-105.2663,2020-03-16,0,0,0,False,Jefferson,Colorado,0,0
+"Multnomah, OR",US,45.5146,-122.5863,2020-03-16,0,0,0,False,Multnomah,Oregon,0,0
+"Polk, OR",US,44.9267,-123.4919,2020-03-16,0,0,0,False,Polk,Oregon,0,0
+"Deschutes, OR",US,43.8325,-121.2617,2020-03-16,0,0,0,False,Deschutes,Oregon,0,0
+"McHenry, IL",US,42.3334,-88.2668,2020-03-16,0,0,0,False,McHenry,Illinois,0,0
+"Lake, IL",US,42.3689,-87.8272,2020-03-16,0,0,0,False,Lake,Illinois,0,0
+"Bucks, PA",US,40.4108,-75.2479,2020-03-16,0,0,0,False,Bucks,Pennsylvania,0,0
+"Delaware County, PA",US,39.9078,-75.3879,2020-03-16,0,0,0,False,Delaware County,Pennsylvania,0,0
+"Douglas County, NE",US,41.3148,-96.1951,2020-03-16,0,0,0,False,Douglas County,Nebraska,0,0
+"Montgomery County, PA",US,40.229,-75.3879,2020-03-16,0,0,0,False,Montgomery County,Pennsylvania,0,0
+"Chatham County, NC",US,35.7211,-79.1781,2020-03-16,0,0,0,False,Chatham County,North Carolina,0,0
+"Camden, NC",US,34.2465,-80.607,2020-03-16,0,0,0,False,Camden,North Carolina,0,0
+"Gunnison, CO",US,38.5458,-106.9253,2020-03-16,0,0,0,False,Gunnison,Colorado,0,0
+"Kane, IL",US,41.9879,-88.4016,2020-03-16,0,0,0,False,Kane,Illinois,0,0
+"Monroe, PA",US,41.0458,-75.2479,2020-03-16,0,0,0,False,Monroe,Pennsylvania,0,0
+"Philadelphia, PA",US,39.9526,-75.1652,2020-03-16,0,0,0,False,Philadelphia,Pennsylvania,0,0
+"Norfolk, VA",US,36.8508,-76.2859,2020-03-16,0,0,0,False,Norfolk,Virginia,0,0
+"Arlington, VA",US,38.8816,-77.09100000000001,2020-03-16,0,0,0,False,Arlington,Virginia,0,0
+"Spotsylvania, VA",US,38.2042,-77.6078,2020-03-16,0,0,0,False,Spotsylvania,Virginia,0,0
+"Loudoun, VA",US,39.0768,-77.6536,2020-03-16,0,0,0,False,Loudoun,Virginia,0,0
+"Prince George's, MD",US,38.7849,-76.8721,2020-03-16,0,0,0,False,Prince George's,Maryland,0,0
+"Pottawattamie, IA",US,41.3912,-95.4778,2020-03-16,0,0,0,False,Pottawattamie,Iowa,0,0
+"Pima, AZ",US,32.0575,-111.6661,2020-03-16,0,0,0,False,Pima,Arizona,0,0
+"Providence County, RI",US,41.8882,-71.4774,2020-03-16,0,0,0,False,Providence County,Rhode Island,0,0
+"Noble, IN",US,41.4277,-85.355,2020-03-16,0,0,0,False,Noble,Indiana,0,0
+"Adams, IN",US,39.8522,-77.2865,2020-03-16,0,0,0,False,Adams,Indiana,0,0
+"Boone, IN",US,40.0106,-86.4997,2020-03-16,0,0,0,False,Boone,Indiana,0,0
+"Dane, WI",US,43.0186,-89.5498,2020-03-16,0,0,0,False,Dane,Wisconsin,0,0
+"Pierce, WI",US,44.7509,-92.3814,2020-03-16,0,0,0,False,Pierce,Wisconsin,0,0
+"Cuyahoga, OH",US,41.4339,-81.6758,2020-03-16,0,0,0,False,Cuyahoga,Ohio,0,0
+"Weber, UT",US,41.2603,-111.9522,2020-03-16,0,0,0,False,Weber,Utah,0,0
+"Bennington County, VT",US,43.0279,-73.135,2020-03-16,0,0,0,False,Bennington County,Vermont,0,0
+"Carver County, MN",US,44.8254,-93.7842,2020-03-16,0,0,0,False,Carver County,Minnesota,0,0
+"Charlotte County, FL",US,26.8946,-81.9098,2020-03-16,0,0,0,False,Charlotte County,Florida,0,0
+"Arapahoe, CO",US,39.6203,-104.3326,2020-03-16,0,0,0,False,Arapahoe,Colorado,0,0
+"Larimer, CO",US,40.6956,-105.5943,2020-03-16,0,0,0,False,Larimer,Colorado,0,0
+"Eagle, CO",US,39.6553,-106.8287,2020-03-16,0,0,0,False,Eagle,Colorado,0,0
+"Union, NJ",US,40.6976,-74.2632,2020-03-16,0,0,0,False,Union,New Jersey,0,0
+Alaska,US,61.3707,-152.4044,2020-03-16,1,0,0,True,,Alaska,1,0
+Idaho,US,44.2405,-114.4788,2020-03-16,5,0,0,True,,Idaho,5,0
+Montana,US,46.9219,-110.4544,2020-03-16,7,0,0,True,,Montana,7,0
+North Dakota,US,47.5289,-99.78399999999999,2020-03-16,1,0,0,True,,North Dakota,1,0
+West Virginia,US,38.4912,-80.9545,2020-03-16,0,0,0,True,,West Virginia,0,0
+Wyoming,US,42.756,-107.3025,2020-03-16,3,0,0,True,,Wyoming,3,0
+"Kitsap, WA",US,47.6477,-122.6413,2020-03-16,0,0,0,False,Kitsap,Washington,0,0
+"Solano, CA",US,38.3105,-121.9018,2020-03-16,0,0,0,False,Solano,California,0,0
+"Santa Cruz, CA",US,37.0454,-121.958,2020-03-16,0,0,0,False,Santa Cruz,California,0,0
+"Napa, CA",US,38.5025,-122.2654,2020-03-16,0,0,0,False,Napa,California,0,0
+"Ventura, CA",US,34.3705,-119.1391,2020-03-16,0,0,0,False,Ventura,California,0,0
+"Worcester, MA",US,42.4097,-71.8571,2020-03-16,0,0,0,False,Worcester,Massachusetts,0,0
+"Gwinnett, GA",US,33.9191,-84.0167,2020-03-16,0,0,0,False,Gwinnett,Georgia,0,0
+"DeKalb, GA",US,33.7956,-84.2279,2020-03-16,0,0,0,False,DeKalb,Georgia,0,0
+"Floyd, GA",US,37.5455,-82.7779,2020-03-16,0,0,0,False,Floyd,Georgia,0,0
+"Fayette, GA",US,33.4502,-84.4803,2020-03-16,0,0,0,False,Fayette,Georgia,0,0
+"Gregg, TX",US,32.4893,-94.8521,2020-03-16,0,0,0,False,Gregg,Texas,0,0
+"Monmouth, NJ",US,40.2589,-74.124,2020-03-16,0,0,0,False,Monmouth,New Jersey,0,0
+"Burlington, NJ",US,40.0712,-74.8649,2020-03-16,0,0,0,False,Burlington,New Jersey,0,0
+"Camden, NJ",US,39.9259,-75.1196,2020-03-16,0,0,0,False,Camden,New Jersey,0,0
+"Passaic, NJ",US,40.8568,-74.1285,2020-03-16,0,0,0,False,Passaic,New Jersey,0,0
+"Cherokee County, GA",US,34.2515,-84.4803,2020-03-16,0,0,0,False,Cherokee County,Georgia,0,0
+"Collin County, TX",US,33.1795,-96.493,2020-03-16,0,0,0,False,Collin County,Texas,0,0
+"Jefferson County, KY",US,38.1938,-85.6435,2020-03-16,0,0,0,False,Jefferson County,Kentucky,0,0
+"Fairfax County, VA",US,38.9085,-77.2405,2020-03-16,0,0,0,False,Fairfax County,Virginia,0,0
+"Washington, D.C.",US,38.9072,-77.0369,2020-03-16,0,0,0,False,Washington,,0,0
+"Alameda County, CA",US,37.6017,-121.7195,2020-03-16,0,0,0,False,Alameda County,California,0,0
+"Broward County, FL",US,26.1901,-80.3659,2020-03-16,0,0,0,False,Broward County,Florida,0,0
+"Lee County, FL",US,26.663,-81.9535,2020-03-16,0,0,0,False,Lee County,Florida,0,0
+"Pinal County, AZ",US,32.8162,-111.2845,2020-03-16,0,0,0,False,Pinal County,Arizona,0,0
+"Rockland County, NY",US,41.1489,-73.983,2020-03-16,0,0,0,False,Rockland County,New York,0,0
+"Saratoga County, NY",US,43.0324,-73.936,2020-03-16,0,0,0,False,Saratoga County,New York,0,0
+"Charleston County, SC",US,32.7957,-79.7848,2020-03-16,0,0,0,False,Charleston County,South Carolina,0,0
+"Clark County, WA",US,45.7466,-122.5194,2020-03-16,0,0,0,False,Clark County,Washington,0,0
+"Cobb County, GA",US,33.8999,-84.5641,2020-03-16,0,0,0,False,Cobb County,Georgia,0,0
+"Davis County, UT",US,40.9629,-112.0953,2020-03-16,0,0,0,False,Davis County,Utah,0,0
+"El Paso County, CO",US,38.9108,-104.4723,2020-03-16,0,0,0,False,El Paso County,Colorado,0,0
+"Honolulu County, HI",US,21.307,-157.8584,2020-03-16,0,0,0,False,Honolulu County,Hawaii,0,0
+"Jackson County, OR",US,42.3345,-122.7647,2020-03-16,0,0,0,False,Jackson County,Oregon,0,0
+"Jefferson County, WA",US,47.7425,-123.304,2020-03-16,0,0,0,False,Jefferson County,Washington,0,0
+"Kershaw County, SC",US,34.3672,-80.5883,2020-03-16,0,0,0,False,Kershaw County,South Carolina,0,0
+"Klamath County, OR",US,42.6953,-121.6142,2020-03-16,0,0,0,False,Klamath County,Oregon,0,0
+"Madera County, CA",US,37.2519,-119.6963,2020-03-16,0,0,0,False,Madera County,California,0,0
+"Pierce County, WA",US,47.0676,-122.1295,2020-03-16,0,0,0,False,Pierce County,Washington,0,0
+"Tulsa County, OK",US,36.1593,-95.941,2020-03-16,0,0,0,False,Tulsa County,Oklahoma,0,0
+"Douglas County, CO",US,39.2587,-104.9389,2020-03-16,0,0,0,False,Douglas County,Colorado,0,0
+"Rockingham County, NH",US,42.9931,-71.0498,2020-03-16,0,0,0,False,Rockingham County,New Hampshire,0,0
+"Volusia County, FL",US,29.028000000000002,-81.0755,2020-03-16,0,0,0,False,Volusia County,Florida,0,0
+"Jefferson Parish, LA",US,29.6499,-90.1121,2020-03-16,0,0,0,False,Jefferson Parish,Louisiana,0,0
+"Ulster County, NY",US,41.8586,-74.3118,2020-03-16,0,0,0,False,Ulster County,New York,0,0
+"Shasta County, CA",US,40.7909,-121.8474,2020-03-16,0,0,0,False,Shasta County,California,0,0
+"Spartanburg County, SC",US,34.8606,-81.9535,2020-03-16,0,0,0,False,Spartanburg County,South Carolina,0,0
+"Harrison County, KY",US,38.4333,-84.3542,2020-03-16,0,0,0,False,Harrison County,Kentucky,0,0
+"Johnson County, IA",US,41.6699,-91.5984,2020-03-16,0,0,0,False,Johnson County,Iowa,0,0
+"Berkshire County, MA",US,42.3118,-73.1822,2020-03-16,0,0,0,False,Berkshire County,Massachusetts,0,0
+"Davidson County, TN",US,36.1343,-86.822,2020-03-16,0,0,0,False,Davidson County,Tennessee,0,0
+"Douglas County, OR",US,43.1261,-123.2492,2020-03-16,0,0,0,False,Douglas County,Oregon,0,0
+"Fresno County, CA",US,36.9859,-119.2321,2020-03-16,0,0,0,False,Fresno County,California,0,0
+"Harford County, MD",US,39.5839,-76.3637,2020-03-16,0,0,0,False,Harford County,Maryland,0,0
+"Hendricks County, IN",US,39.8065,-86.5401,2020-03-16,0,0,0,False,Hendricks County,Indiana,0,0
+"Hudson County, NJ",US,40.7453,-74.0535,2020-03-16,0,0,0,False,Hudson County,New Jersey,0,0
+"Johnson County, KS",US,38.8454,-94.8521,2020-03-16,0,0,0,False,Johnson County,Kansas,0,0
+"Kittitas County, WA",US,47.175,-120.9319,2020-03-16,0,0,0,False,Kittitas County,Washington,0,0
+"Manatee County, FL",US,27.4799,-82.3452,2020-03-16,0,0,0,False,Manatee County,Florida,0,0
+"Marion County, OR",US,44.8446,-122.5927,2020-03-16,0,0,0,False,Marion County,Oregon,0,0
+"Okaloosa County, FL",US,30.5773,-86.6611,2020-03-16,0,0,0,False,Okaloosa County,Florida,0,0
+"Polk County, GA",US,34.0132,-85.1479,2020-03-16,0,0,0,False,Polk County,Georgia,0,0
+"Riverside County, CA",US,33.9533,-117.3961,2020-03-16,0,0,0,False,Riverside County,California,0,0
+"Shelby County, TN",US,35.1269,-89.9253,2020-03-16,0,0,0,False,Shelby County,Tennessee,0,0
+"St. Louis County, MO",US,38.6103,-90.4125,2020-03-16,0,0,0,False,St. Louis County,Missouri,0,0
+"Suffolk County, NY",US,40.9849,-72.6151,2020-03-16,0,0,0,False,Suffolk County,New York,0,0
+Virgin Islands,US,18.3358,-64.8963,2020-03-16,1,0,0,True,,Virgin Islands,1,0

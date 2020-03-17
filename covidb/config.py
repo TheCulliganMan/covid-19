@@ -5,6 +5,7 @@ DEATH = "time_series_19-covid-Deaths.csv"
 RECOVERED = "time_series_19-covid-Recovered.csv"
 RAW_OUTPUT_CSV = "time-series-19-covid-combined-raw.csv"
 ENHANCED_OUTPUT_CSV = "time-series-19-covid-combined-enhanced.csv"
+COUNTIES_CSV = "data/geocodes.csv"
 def get_todays_output_name():
     date = datetime.date.today().isoformat()
     todays_name = f"time-series-19-covid-combined-enhanced_{date}.csv" 
