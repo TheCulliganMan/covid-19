@@ -142,3 +142,4 @@ cython_debug/
 media
 static
 poetry.lock
+.DS_Store
