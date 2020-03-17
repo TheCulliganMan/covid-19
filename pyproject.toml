@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "covidb"
+version = "0.1.0"
+description = ""
+authors = ["Ryan Culligan <rrculligan@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pandas = "^1.0.2"
+dataflows = "^0.0.71"
+us = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
